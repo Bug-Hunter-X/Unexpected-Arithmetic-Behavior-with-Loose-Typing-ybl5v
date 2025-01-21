@@ -1,0 +1,2 @@
+# JavaScript Loose Typing Bug
+This example demonstrates a common pitfall in JavaScript: unexpected behavior when performing arithmetic operations with mixed data types due to loose typing.  The `+` operator concatenates strings while `-` attempts type coercion, leading to inconsistent results.  The solution demonstrates explicit type checking and conversion for predictable outcomes.
